@@ -1,0 +1,29 @@
+Passo a passo da criação de repositório Github
+
+1º Criar uma conta no GITHUB;
+
+2º Criar um repositório Github;
+
+3º Criar uma pasta em seu Desktop;
+
+4º Abrir Git Bash Here, com botão direito do mause dentro da pasta aberta;
+
+5º Copiar codigo de dentro do Github;
+
+6º Usar comando: git clone "colar o código copiado de dentro do Github;
+
+7º Para entrar no repositório, usar comando: cd "nome do repositério" + enter;
+
+8º Criar pasta dentro do repositório com um arquivo txt;
+
+9º No Gitbash, usar comando para atualizar e aparecer a página: git status;
+
+10º Enviar a pasta para controle de versão, usando os seguintes comandos: git add .   ou   git add -A
+
+11º depois utilizar o comando: git status;
+
+12º o link deverá ficar verde;
+
+13º Incluir a pasta no Github através do comando: git commit -m "nome ligado ao cointeudo do txt"
+
+14º usar comandos: git status e depois git push origin main;
